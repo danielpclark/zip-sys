@@ -2,6 +2,13 @@
 name = "zip-sys"
 version = "0.0.1"
 authors = ["Daniel P. Clark <6ftdan@gmail.com>"]
+description = "sys wrapper for libzip"
+homepage = "https://github.com/danielpclark/zip-sys"
+repository = "https://github.com/danielpclark/zip-sys"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+keywords = ["compression","zip","unzip","libzip"]
+categories = ["compression"]
 
 [dependencies]
 
