@@ -1,0 +1,9 @@
+[package]
+name = "zip-sys"
+version = "0.0.1"
+authors = ["Daniel P. Clark <6ftdan@gmail.com>"]
+
+[dependencies]
+
+[build-dependencies]
+bindgen = "0.26.3"
